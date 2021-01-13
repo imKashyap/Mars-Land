@@ -1,6 +1,6 @@
 ## Marsland
 
-The AboutMe app showcases interesting facts about yourself with a button, an image, and some scrollable text. The app has an interactive state where you can enter your nickname and if wanted can edit it again too.
+Marsland is a Mars Real Estate, which shows properties for sale on Mars. This app connects to a web service to retrieve and display the property data, including details such as the price and whether the property is available for sale or rent. The images representing each property are real-life photos from Mars captured from NASA's Mars rovers.
 
 ## Screenshots
 
